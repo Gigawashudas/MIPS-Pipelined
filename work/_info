@@ -1,0 +1,362 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\hreev\Desktop\mips
+vadder
+I`1XN`?^EL2F`?jkGlJf7^3
+VhNiXJlYc[jb4RQDTAA5JU0
+Z0 dC:\Users\hreev\Desktop\ComputerArchitecture\MIPS-Pipelined
+Z1 w1733462468
+Z2 Fadder.v
+Z3 8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP.v
+Z4 FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP.v
+L0 6
+Z5 OV;L;6.5b;42
+r1
+31
+Z6 !s102 -nocovercells
+Z7 o-work work -nocovercells -O0
+!s100 kTb3b3higZb9Elho=?JV32
+!s85 0
+!s101 -O0
+valu32
+I]6Hz]MGmR4dO:<>SEQC@l3
+VBRiODn[31RXHbJ_;X6=E]0
+Z8 dC:\Users\hreev\Desktop\ComputerArchitecture\MIPS-Pipelined
+w1734699626
+Falu32.v
+R3
+R4
+L0 5
+R5
+r1
+31
+R6
+R7
+!s100 G^Zcjea;FUL]R=IEh:8Fz2
+!s85 0
+!s101 -O0
+vControlunit
+I?CAPa0_fM`AcS^j^Y@@;j1
+VaoJC3<aBY;jJDl6R:BD6k2
+R8
+R1
+Fcontrol.v
+R3
+R4
+L0 7
+R5
+r1
+31
+R6
+R7
+n@controlunit
+!s100 PhC2aH:NIUQf2bKkN7[H53
+!s85 0
+!s101 -O0
+vDatapath
+IbSLR@f_E2GN5S^<^mc[m20
+Vh4fSL79z<VPo[ei3B=gKI0
+R8
+w1733462900
+Fdatapath.v
+R3
+R4
+L0 21
+R5
+r1
+31
+R6
+R7
+n@datapath
+!s100 K<CUDFjM05;^Jc4?Z2Nbb1
+!s85 0
+!s101 -O0
+vEX_M
+I^`bSZ@giT^_HR9Tjc8eeN1
+VEHG`HKdUZmoWNc>i[k8T_3
+R8
+R1
+FEX_M.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+n@e@x_@m
+!s100 BD3CPKDYbAPCLZ;7HDf`13
+!s85 0
+!s101 -O0
+vFA
+IZgRgIF7Ai2Ta@>z>N3?Pm1
+V1k]15H=BDkj<<i9:zUeBg3
+R8
+R1
+R2
+R3
+R4
+L0 23
+R5
+r1
+31
+R6
+R7
+n@f@a
+!s100 IMT4@9eaiPN_1BlZMFh;Y1
+!s85 0
+!s101 -O0
+vflopr_param
+I98l@zYXl0NMolS99VocD72
+Vi9enckcP3:9J9MdGlBbkA2
+R8
+R1
+Fflopr_param.v
+R3
+R4
+L0 5
+R5
+r1
+31
+R6
+R7
+!s100 _i;mD1iiAJ6AEdRd5Tl5c0
+!s85 0
+!s101 -O0
+vforwardingunit
+IE`EHEgz=4`eYKVkW`<TFT3
+Vl0SDkfikUZOW<b4M2i2=B0
+R8
+R1
+Fforwardingunit.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+!s100 ?CIT@??kjZ84_<ZUeXQfD3
+!s85 0
+!s101 -O0
+vhazardunit
+I>lk>96WKz0aBhD?LS;60=0
+Vo^H6W2Bc_Gb4jPl<C_V]K2
+R8
+R1
+Fhazardunit.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+!s100 @g3zHP2WCD?eM>IQCf<bg1
+!s85 0
+!s101 -O0
+vID_EX
+IC=UX`FDY]20TjEbOJP2;A2
+V2<_z3PihUHn@4o[eDnDO]1
+R8
+R1
+FID_EX.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+n@i@d_@e@x
+!s100 N_]Z1:3Aan`d=<dA:X[3V1
+!s85 0
+!s101 -O0
+vIF_ID
+I:I^dHSmHXUonWBebjeB572
+VO`9cgke4b`Q>NDmNM0TU32
+R8
+R1
+FIF_ID.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+n@i@f_@i@d
+!s100 NO[h:c37z4F[5BjaoGJ<I3
+!s85 0
+!s101 -O0
+vM_WB
+IC]P4cYT@`8YKTLdJC6_5X0
+VXMN4e^FMQZ12NZSihY5hf2
+R8
+R1
+FM_WB.v
+R3
+R4
+L0 3
+R5
+r1
+31
+R6
+R7
+n@m_@w@b
+!s100 eIP^80]^Ne3e^kd2CzM<Q2
+!s85 0
+!s101 -O0
+vMIPS_PP
+I[?D>ibMGl>?3K^i_A^8B;1
+VG^_]dTWf01z<bCOl;zjJ10
+R8
+R1
+R3
+R4
+L0 12
+R5
+r1
+31
+R6
+R7
+n@m@i@p@s_@p@p
+!s100 db5?S4oBQIm5ZX92^82X00
+!s85 0
+!s101 -O0
+vMIPS_PP_tb
+I[hiD_G<jGVSOo@E5KLI::3
+VjnnmMAFSKXSi[d?1hTFSc1
+R8
+w1734699312
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP_tb.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP_tb.v
+L0 7
+R5
+r1
+31
+R6
+R7
+n@m@i@p@s_@p@p_tb
+!s100 7dnQF0PYn;MTV`^oeh84h1
+!s85 0
+!s101 -O0
+vmux2
+I@ANoGI?z<DKk>772Nj4F@2
+Vm[M^AL:[8b][OEhk:h>fV0
+R8
+R1
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux2.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux2.v
+L0 6
+R5
+r1
+31
+R6
+R7
+!s100 COFPCIbCo2d9N7VEH]F]l3
+!s85 0
+!s101 -O0
+vmux3
+I:g88MgJb3`oZRUbX7hZJn1
+VNWMbd`KYi18_zW`m7DaK[2
+R8
+R1
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux3.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux3.v
+L0 6
+R5
+r1
+31
+R6
+R7
+!s100 @Vd3A49W=nC`3bC_SeYI@2
+!s85 0
+!s101 -O0
+vram
+Ii8iZFJ?d1VeH1LQlS?zDA2
+VP>gSULF=<mAHN:WC=2RXQ2
+R8
+w1734685373
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v
+L0 5
+R5
+r1
+31
+R6
+R7
+!s100 d_5M[1QRHE[e6IA`?gfkT0
+!s85 0
+!s101 -O0
+vregisterfile32
+IJCF_DWz<dD0=[9H9B<7P83
+V20i06;A2iNS82`h:8Wi0J1
+R8
+R1
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/regfile32.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/regfile32.v
+L0 6
+R5
+r1
+31
+R6
+R7
+!s100 =3E0HHmnVbnkMO^SUL_L53
+!s85 0
+!s101 -O0
+vrom
+I;]L<TQK[T?0:iESKlA;L00
+V_kQR9m@T1hTgA2N8mN:0n3
+R8
+w1734700249
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/rom.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/rom.v
+L0 6
+R5
+r1
+31
+R6
+R7
+!s100 Cz=H19;c=M?ddSda4Y7;m2
+!s85 0
+!s101 -O0
+vsignext
+IX`jTS^>jE79:f1hZjnM;N3
+VzXjEl4X;;[WhS@=1HjFT41
+R8
+R1
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/signext.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/signext.v
+L0 6
+R5
+r1
+31
+R6
+R7
+!s100 E@;EYQ1ihjW^l?hdGMfED0
+!s85 0
+!s101 -O0
+vslt2
+!s100 ?n:J^glQ][boGH5znP^l03
+ISXh5QQVX:jO^e6EU1A;F;2
+V:cz68I<3Wd3kEii<m7T1l0
+R8
+R1
+8C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v
+FC:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v
+L0 5
+R5
+r1
+!s85 0
+31
+!s101 -O0
+R6
+R7

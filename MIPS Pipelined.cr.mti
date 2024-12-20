@@ -1,0 +1,169 @@
+C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP_tb.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module MIPS_PP_tb
+
+Top level modules:
+	MIPS_PP_tb
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/adder.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/adder.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/MIPS_PP.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module EX_M
+-- Compiling module ID_EX
+-- Compiling module IF_ID
+-- Compiling module M_WB
+-- Compiling module forwardingunit
+-- Compiling module hazardunit
+-- Compiling module Datapath
+-- Compiling module ram
+-- Compiling module rom
+-- Compiling module Controlunit
+-- Compiling module MIPS_PP
+
+Top level modules:
+	MIPS_PP
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/signext.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/signext.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/flopr_param.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/flopr_param.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux2.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux2.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux3.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/mux3.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/M_WB.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/M_WB.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module M_WB
+
+Top level modules:
+	M_WB
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/datapath.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/datapath.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module EX_M
+-- Compiling module ID_EX
+-- Compiling module IF_ID
+-- Compiling module M_WB
+-- Compiling module forwardingunit
+-- Compiling module hazardunit
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/EX_M.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/EX_M.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module EX_M
+
+Top level modules:
+	EX_M
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ID_EX.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ID_EX.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/hazardunit.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/hazardunit.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module hazardunit
+
+Top level modules:
+	hazardunit
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/regfile32.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/regfile32.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/forwardingunit.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/forwardingunit.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module forwardingunit
+
+Top level modules:
+	forwardingunit
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/IF_ID.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/IF_ID.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}}
