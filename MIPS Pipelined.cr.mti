@@ -5,6 +5,13 @@ Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 Top level modules:
 	MIPS_PP_tb
 
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/rom.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/rom.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module rom
+
+Top level modules:
+	rom
+
 } {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/ram.v
 Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 -- Compiling module ram
@@ -81,13 +88,6 @@ Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 Top level modules:
 	M_WB
 
-} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v
-Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
--- Compiling module alu32
-
-Top level modules:
-	alu32
-
 } {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/datapath.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/datapath.v
 Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 -- Compiling module adder
@@ -110,19 +110,19 @@ Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 Top level modules:
 	Datapath
 
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/alu32.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
 } {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/sl2.v
 Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 -- Compiling module slt2
 
 Top level modules:
 	slt2
-
-} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v
-Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
--- Compiling module Controlunit
-
-Top level modules:
-	Controlunit
 
 } {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/EX_M.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/EX_M.v
 Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
@@ -137,6 +137,13 @@ Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
 
 Top level modules:
 	ID_EX
+
+} {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/control.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
 
 } {} {}} C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/hazardunit.v {1 {vlog -work work -nocovercells C:/Users/hreev/Desktop/ComputerArchitecture/MIPS-Pipelined/hazardunit.v
 Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
